@@ -44,7 +44,7 @@ def eat_lunch(my_lst):
 
     # Line 32 starts a function named "eat_lunch".  Agruments passed to the function will be given the name of "my_1st"
     # Lines 33-40 are if/else statements with prints
-    # Line 33 is checking the length (len) of the "my_1st" (argument). If no argument is sent when "eat_lunch" is called
+    # Line 33 is checking the length (len) of the "my_1st" (argument). If an empty argument is sent when "eat_lunch" is called
         #then the message on line 34 will print; otherwise continue to else statement on line 35.
     # Line 36 uses the "range" function.  In the range function it is using the length of "my_first" to set the number of 
         #items in the incomming list
